@@ -1,2 +1,2 @@
-# Gregs-First-GitHub-Repository
+# Gregs-First-Awesome-GitHub-Repository
 My first foray into GitHub
